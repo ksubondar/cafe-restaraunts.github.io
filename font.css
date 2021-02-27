@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'FertigoPro-Regular';
+  src: url('FertigoPro-Regular.eot');
+  src: url('FertigoPro-Regular.eot?#iefix') format('embedded-opentype'),
+       url('FertigoPro-Regular.ttf') format('truetype'),
+       url('FertigoPro-Regular.woff') format('woff'),
+       url('FertigoPro-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
