@@ -476,9 +476,9 @@ iframe {
     font-size: 9px;
 }
 .link-flex {
-    -ms-grid-rows: 40% 45%;
+    -ms-grid-rows: 38% 45%;
     -ms-grid-columns: 50% 50%;
-        grid-template: 40% 45% / 50% 50%;
+        grid-template: 38% 45% / 50% 50%;
     padding: 17px 15px 0 15px;
 }
 .shadow-left {
